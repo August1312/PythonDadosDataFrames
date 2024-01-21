@@ -1,0 +1,15 @@
+# Ignorar arquivos temporários
+*.log
+*.swp
+*.tmp
+
+# Ignorar diretórios específicos
+/node_modules/
+/dist/
+
+# Ignorar arquivos contendo credenciais sensíveis
+credentials.json
+secrets.txt
+
+# Ignorar diretório do ambiente virtual
+venv/
